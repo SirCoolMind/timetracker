@@ -132,6 +132,8 @@ mixAssetsDir('vendor/fonts/!(_)*.scss', (src, dest) =>
 mixAssetsDir('js/**/*.js', (src, dest) => mix.scripts(src, dest));
 mixAssetsDir('css/**/*.css', (src, dest) => mix.copy(src, dest));
 
+mix.js('resources/assets/core/custom.js', 'public/assets/core/');
+
 mix.copy('node_modules/boxicons/fonts/*', 'public/assets/vendor/fonts/boxicons');
 //-- Font Awesome from npm --//
 mix.copyDirectory('node_modules/@fortawesome/fontawesome-free/css/*.min.css', 'public/fonts/font-awesome/css');
