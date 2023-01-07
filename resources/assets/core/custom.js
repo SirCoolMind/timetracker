@@ -9,6 +9,7 @@
 try {
 
     window.Swal = require('sweetalert2');
+    window.flatpickr = require('flatpickr');
 
 } catch (e) { }
 
