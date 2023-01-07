@@ -1,5 +1,5 @@
 {
-    "/assets/vendor/js/bootstrap.js": "/assets/vendor/js/bootstrap.js?id=c2788255ec2b83deac2edbd5f3e9b7ed",
+    "/assets/vendor/js/bootstrap.js": "/assets/vendor/js/bootstrap.js?id=dbecbd1ee12b7681f5e92a90bc7c32f5",
     "/assets/vendor/js/helpers.js": "/assets/vendor/js/helpers.js?id=469e60559fb53cc9f21988785e1c6436",
     "/assets/vendor/js/menu.js": "/assets/vendor/js/menu.js?id=f776035eb125397de381259ea5097d30",
     "/assets/vendor/libs/apex-charts/apexcharts.js": "/assets/vendor/libs/apex-charts/apexcharts.js?id=a9d510771bccde2bfbc5adf13fb04387",
@@ -35,5 +35,22 @@
     "/assets/vendor/fonts/boxicons/boxicons.svg": "/assets/vendor/fonts/boxicons/boxicons.svg?id=b0bb967778275b356010f01219188eb0",
     "/assets/vendor/fonts/boxicons/boxicons.ttf": "/assets/vendor/fonts/boxicons/boxicons.ttf?id=1d54c12488898e7fa28840ed674ca37a",
     "/assets/vendor/fonts/boxicons/boxicons.woff": "/assets/vendor/fonts/boxicons/boxicons.woff?id=ff5a072c1eea4f79a9e93878a25e07c8",
-    "/assets/vendor/fonts/boxicons/boxicons.woff2": "/assets/vendor/fonts/boxicons/boxicons.woff2?id=78a5fea85045ae6de1d1af590dad2013"
+    "/assets/vendor/fonts/boxicons/boxicons.woff2": "/assets/vendor/fonts/boxicons/boxicons.woff2?id=78a5fea85045ae6de1d1af590dad2013",
+    "/fonts/font-awesome/css/all.min.css": "/fonts/font-awesome/css/all.min.css?id=8bb6644125ddeee7a27732e86f65fa05",
+    "/fonts/font-awesome/css/brands.min.css": "/fonts/font-awesome/css/brands.min.css?id=a0c6a95071b1e2c9135c5b3dadad2e97",
+    "/fonts/font-awesome/css/fontawesome.min.css": "/fonts/font-awesome/css/fontawesome.min.css?id=9a49b4119914ede1fa3d5551676fec80",
+    "/fonts/font-awesome/css/regular.min.css": "/fonts/font-awesome/css/regular.min.css?id=abd5eb2de3a3467b1ff0c65752789acc",
+    "/fonts/font-awesome/css/solid.min.css": "/fonts/font-awesome/css/solid.min.css?id=a9b14fd78c2c5476778c9da0c9b4c330",
+    "/fonts/font-awesome/css/svg-with-js.min.css": "/fonts/font-awesome/css/svg-with-js.min.css?id=161eb8b96a7f970c0858a4d8e828096b",
+    "/fonts/font-awesome/css/v4-font-face.min.css": "/fonts/font-awesome/css/v4-font-face.min.css?id=fc33d4da6bd473e2ed3c5f8323267536",
+    "/fonts/font-awesome/css/v4-shims.min.css": "/fonts/font-awesome/css/v4-shims.min.css?id=1568e812cde85e014a6a0faf629ff2f9",
+    "/fonts/font-awesome/css/v5-font-face.min.css": "/fonts/font-awesome/css/v5-font-face.min.css?id=e895b743269739bc623157fb0020c0bc",
+    "/fonts/font-awesome/webfonts/fa-brands-400.ttf": "/fonts/font-awesome/webfonts/fa-brands-400.ttf?id=e8cb29f0533ad783f53dc3d0d3732c1b",
+    "/fonts/font-awesome/webfonts/fa-brands-400.woff2": "/fonts/font-awesome/webfonts/fa-brands-400.woff2?id=c5963a6b2ffcce7e5eaa4a1e2fed1f85",
+    "/fonts/font-awesome/webfonts/fa-regular-400.ttf": "/fonts/font-awesome/webfonts/fa-regular-400.ttf?id=fc25c95a7bfd57b2bdb661d32d09246a",
+    "/fonts/font-awesome/webfonts/fa-regular-400.woff2": "/fonts/font-awesome/webfonts/fa-regular-400.woff2?id=032e80176af491015958c27883bdefad",
+    "/fonts/font-awesome/webfonts/fa-solid-900.ttf": "/fonts/font-awesome/webfonts/fa-solid-900.ttf?id=80bfa61d74759d96bfc5be4dbd61fced",
+    "/fonts/font-awesome/webfonts/fa-solid-900.woff2": "/fonts/font-awesome/webfonts/fa-solid-900.woff2?id=8b1ec0344b625c6d610671436faa32f7",
+    "/fonts/font-awesome/webfonts/fa-v4compatibility.ttf": "/fonts/font-awesome/webfonts/fa-v4compatibility.ttf?id=d0674c1d2f00df21f8b64f18c4f2181b",
+    "/fonts/font-awesome/webfonts/fa-v4compatibility.woff2": "/fonts/font-awesome/webfonts/fa-v4compatibility.woff2?id=3a738148640a3132bddd48fae5bbe0d5"
 }

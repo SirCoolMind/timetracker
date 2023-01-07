@@ -1,5 +1,5 @@
 {
-  "name": "sneat-bootstrap-html-laravel-admin-template-free",
+  "name": "tracker",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -12,6 +12,7 @@
     "production": "mix --production"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.1",
     "@popperjs/core": "^2",
     "apexcharts-clevision": "^3",
     "autoprefixer": "10.4.5",
