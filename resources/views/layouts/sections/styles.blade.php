@@ -12,6 +12,7 @@
 <link rel="stylesheet" href="{{ asset(mix('assets/css/demo.css')) }}" />
 
 <link rel="stylesheet" href="{{ asset(mix('assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css')) }}" />
+<link rel="stylesheet" href="{{ asset(mix('assets/vendor/libs/flatpickr/flatpickr.css')) }}" />
 
 <!-- Vendor Styles -->
 @yield('vendor-style')
@@ -19,3 +20,6 @@
 
 <!-- Page Styles -->
 @yield('page-style')
+
+<!-- Custom Styles -->
+@include('layouts.sections.customStyle')

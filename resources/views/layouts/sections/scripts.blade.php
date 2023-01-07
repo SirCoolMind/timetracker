@@ -3,6 +3,7 @@
 <script src="{{ asset(mix('assets/vendor/libs/popper/popper.js')) }}"></script>
 <script src="{{ asset(mix('assets/vendor/js/bootstrap.js')) }}"></script>
 <script src="{{ asset(mix('assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js')) }}"></script>
+<script src="{{ asset(mix('assets/vendor/libs/flatpickr/flatpickr.js')) }}"></script>
 <script src="{{ asset(mix('assets/vendor/js/menu.js')) }}"></script>
 @yield('vendor-script')
 <!-- END: Page Vendor JS-->
@@ -10,6 +11,9 @@
 <script src="{{ asset(mix('assets/js/main.js')) }}"></script>
 
 <!-- END: Theme JS-->
+<!-- BEGIN: Custom JS-->
+@include('layouts.sections.customScript')
+<!-- END: Custom JS-->
 <!-- Pricing Modal JS-->
 @stack('pricing-script')
 <!-- END: Pricing Modal JS-->

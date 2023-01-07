@@ -68,7 +68,9 @@ mix.webpackConfig({
     // blueimp-gallery plugin
     './blueimp-helper': 'jQuery',
     './blueimp-gallery': 'blueimpGallery',
-    './blueimp-gallery-video': 'blueimpGallery'
+    './blueimp-gallery-video': 'blueimpGallery',
+    flatpickr: 'flatpickr',
+
   },
   stats: {
     children: true,
